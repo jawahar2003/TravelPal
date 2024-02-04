@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Happy Travels</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="add_place_mark_on_map_text">(or) MARK DESTINATION ON MAP</string>
+    <string name="note_text_no_destination_places_added">Select your travel destination</string>
+    <string name="btn_text_view_on_map">View on map</string>
+    <string name="YOUR_API_KEY">AIzaSyCcG9sf5wj5ajN5yJnerNc6-tHbhi3lDsA</string>
+    <string name="title_activity_mark_on_map">MarkOnMapActivity</string>
+    <string name="background_location_permission_message">
+       <b>Allow only while using the app</b> permission has been granted. If you want
+        to get location updates in the background even when not using the app then grant
+        <b>Allow all the time</b> permission
+    </string>
+
+</resources>
